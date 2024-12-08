@@ -1,5 +1,8 @@
 # Сабмит лежит в `test_results/test.csv`
 
+# Основная модель в `3.baseline+interactions.ipynb`
+
+
 # Комментарии к заданию
 
 Формат имен признаков:
